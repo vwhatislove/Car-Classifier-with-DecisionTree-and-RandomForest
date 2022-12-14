@@ -1,37 +1,37 @@
 # Классификация автомобилей
 Информация о целевой переменной:
 •	«C» - Класс автомобиля
-	Unacc (неприемлемый)
-	Acc (приемлемый)
-	Good (хороший)
-	Vgood (лучший)
+	Unacc (неприемлемый)
+	Acc (приемлемый)
+	Good (хороший)
+	Vgood (лучший)
 Информация об атрибутах:
 •	«buying» - Стоимость автомобиля
-	Low
-	Med
-	High
-	Vhigh
+	Low
+	Med
+	High
+	Vhigh
 •	«maint» - Стоимость обслуживания
-	Low
-	Med
-	High
-	Vhigh
+	Low
+	Med
+	High
+	Vhigh
 •	«doors» - Количество дверей
-	2
-	3
-	4
-	5more
+	2
+	3
+	4
+	5more
 •	«persons» - Количество пассажиров
-	2
-	4
-	More
+	2
+	4
+	More
 
 •	«lug_boot» - Габариты багажника
-	Small
-	Med
-	Big
+	Small
+	Med
+	Big
 •	«safety» - Безопасность
-	Low
-	Med
-	High
+	Low
+	Med
+	High
 
